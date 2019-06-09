@@ -7,3 +7,5 @@ vsce create-publisher eyegood
 "publisher": "eyegood",
 
  vsce publish
+
+
