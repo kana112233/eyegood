@@ -1,11 +1,13 @@
-# Change Log
+# 
 
-All notable changes to the "eyegood" extension will be documented in this file.
+## fix bugs
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### v0.0.5
 
-v0.0.4 调色
+1. Ctrl + P 搜索关键字匹配到文字时看不清 改成蓝色
 
-## [Unreleased]
+2. 修改菜单栏未激活时的颜色 黑色改白色.
 
-- Initial release
+### v0.0.4 调色
+
+
